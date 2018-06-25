@@ -1,0 +1,28 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "stereo-autoconfig",
+                "projectName": "stereo-autoconfig",
+                "workingDirectory": "e:\\Practices\\Java\\spring-in-action-learning\\chapter-02\\stereo-autoconfig",
+                "args": [],
+                "vmargs": [],
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "stereo-autoconfig",
+                "projectName": "stereo-autoconfig",
+                "workingDirectory": "e:\\Practices\\Java\\spring-in-action-learning\\chapter-02\\stereo-autoconfig",
+                "args": [],
+                "vmargs": [],
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
